@@ -1,3 +1,6 @@
+
+Use https://github.com/jonaaix/mattermost-docker-arm instead. If you don't use ARM, you can just switch the binary download URL to AMD64.
+
 # Mattermost Docker
 
 A minimal Docker Compose setup to run [Mattermost](https://mattermost.com/).
